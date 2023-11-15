@@ -41,7 +41,8 @@ then
         echo "php installed"
 else
         echo "installing php"
-        sudo apt install php libapache2-mod-php php-mysql php-mbstring php-zip
+		sudo apt install php libapache2-mod-php php-mysql php-mbstring php-zip php-gd php-json php-curl 
+
 fi
 
 systemctl start apache2
