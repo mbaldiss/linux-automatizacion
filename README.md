@@ -1,6 +1,7 @@
 # reto 1
 # linux-automatizacion
-# integrantes: Marco Baldissone, Esteban Bustos, Hector Sola Garrido, Maximiliano Delebecq y Solange
+# grupo 23
+integrantes: Marco Baldissone, Esteban Bustos, Hector Sola Garrido, Maximiliano Delebecq y Solange
 
 Antes de ejecutar el script, deben darle permisos al archivo.
 chmod u+x ./deploy.sh
